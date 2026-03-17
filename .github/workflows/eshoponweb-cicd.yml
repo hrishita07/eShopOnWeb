@@ -9,7 +9,7 @@ env:
   LOCATION: australiaeast
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 90244a2f-6339-4084-8bc9-c8903103c69f
-  WEBAPP-NAME: RgWebShop
+  WEBAPP-NAME: eshoponweb-webapp-hrishita07
 
 jobs:
   #Build, test and publish .net web project in repository
